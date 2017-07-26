@@ -21,4 +21,4 @@ Parent folder
  - Gulp---Pingy-pug-Stylus-to-WordPress (or whatever you've renamed it to)
  - wordpress (this wil contain your wordpress template code)
  
-You can use `stylus -w styles/main.styl -o css/` to watch and compile your Stylus edits.
+You can use `$ stylus -w styles/main.styl -o css/` to watch and compile your Stylus edits.
