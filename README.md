@@ -1,9 +1,9 @@
 # Gulp---Pingy-pug-Stylus-to-WordPress
 Gulp script to compile Pingy exported files to a WordPress base template
 
-Port from earlier Gulp script to be used with Pingy: https://github.com/pingyhq/pingy-cli
+Port from earlier Gulp script to be used with Pingy: https://github.com/pingyhq/pingy-cli.
 For Pingy use the Pug and Stylus options then this script will compile the export to a base WordPress template to start from.
-Comes with own WP Menu script which can be edited to refelct your own menu setup.
+Comes with own WP Menu script which can be edited to reflect your own menu setup.
 
 ## Usage
 * Your Pingy template should be in a folder named 'html'
